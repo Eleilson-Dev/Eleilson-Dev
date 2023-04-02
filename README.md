@@ -52,14 +52,15 @@
 <h2>Statics</h2>
 <div align="center">
   <a href="https://github.com/Eleilson69">
+   <img 
+     height="180em" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleilson69&layout=compact&langs_count=7&theme=dark"
+  />
   <img 
      height="180em" 
      src="https://github-readme-stats.vercel.app/api?username=Eleilson69&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
   />
-  <img 
-     height="180em" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleilson69&layout=compact&langs_count=7&theme=dark"
-  />
+
 </div>
 
 <div>
