@@ -74,10 +74,10 @@
 <div>
   <h2>Contatos:</h2>
    <a 
-        href="https://www.linkedin.com/in/eleilson-rds/" 
+        href="mailto:eleilson.santos.oficial@gmail.com" 
         target="_blank">
         <img 
-          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+          src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
           target="_blank"
         >
   </a>
