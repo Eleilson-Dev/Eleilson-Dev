@@ -4,7 +4,7 @@
   🟪 Programar é meu superpoder, qual é o seu ? <br>
   🟧 Desenvolvendo e construindo soluções! 💻💡🚀 <br>
   🟥 Programador apaixonado por desafios e soluções criativas! <br>
-  🟨 Desenvolvedor apaixonado por tecnologia e programação 👨‍💻 <br>
+  🟨 Construindo sites que fazem da intenet um lugar melhor 👨‍💻 <br>
   🟦 Front-end Developer 🗂️📚
 </p>
 
