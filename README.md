@@ -27,6 +27,7 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   >
   <img 
+       style="cursor: not-allowed;"
        align="center" 
        alt="Eleilson-Js" 
        height="50" 
@@ -34,6 +35,7 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   >
   <img 
+       style="cursor: not-allowed;"
        align="center" 
        alt="Eleilson-Js" 
        height="50" 
@@ -41,6 +43,7 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   >
   <img 
+       style="cursor: not-allowed;"
        align="center" 
        alt="Eleilson-Js" 
        height="50" 
@@ -48,6 +51,7 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   >
   <img 
+       style="cursor: not-allowed;"
        align="center" 
        alt="Eleilson-Js" 
        height="50" 
