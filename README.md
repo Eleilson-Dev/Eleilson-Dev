@@ -1,7 +1,7 @@
 <h2>Bem vindo ao meu perfil 👋</h2>
 
 <p>
-  🟣 Programar é meu superpoder, qual é o seu ? <br>
+  <span style="width: 50px; height: 50px;">🟣</span> Programar é meu superpoder, qual é o seu ? <br>
   🟠 Desenvolvendo e construindo soluções! 💻💡🚀 <br>
   🔴 Programador apaixonado por desafios e soluções criativas! <br>
   🟡 Construindo sites que fazem da intenet um lugar melhor 👨‍💻 <br>
