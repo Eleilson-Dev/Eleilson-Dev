@@ -1,11 +1,11 @@
 <h2>Bem vindo ao meu perfil 👋</h2>
 
 <p>
-  <span>🟣</span> Programar é meu superpoder, qual é o seu ? <br>
-  <span>🟠</span> Desenvolvendo e construindo soluções! 💻💡🚀 <br>
-  <span>🔴</span> Programador apaixonado por desafios e soluções criativas! <br>
-  <span>🟡</span> Construindo sites que fazem da intenet um lugar melhor 👨‍💻 <br>
-  <span>🔵</span> Full-Stack Developer 🗂️📚
+  🟣 Programar é meu superpoder, qual é o seu ? <br>
+  🟠 Desenvolvendo e construindo soluções! 💻💡🚀 <br>
+  🔴 Programador apaixonado por desafios e soluções criativas! <br>
+  🟡 Construindo sites que fazem da intenet um lugar melhor 👨‍💻 <br>
+  🔵 Full-Stack Developer 🗂️📚
 </p>
 
 <h2>Ferramentas e Tecnologias</h2>
