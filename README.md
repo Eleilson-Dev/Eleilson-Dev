@@ -5,7 +5,7 @@
   🟧 Desenvolvendo e construindo soluções! 💻💡🚀 <br>
   🟥 Programador apaixonado por desafios e soluções criativas! <br>
   🟨 Construindo sites que fazem da intenet um lugar melhor 👨‍💻 <br>
-  🟦 Front-end Developer 🗂️📚
+  🟦 Full-Stack Developer 🗂️📚
 </p>
 
 <h2>Ferramentas e Tecnologias</h2>
