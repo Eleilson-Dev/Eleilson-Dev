@@ -42,7 +42,6 @@
        width="60" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   >
- <i class="devicon-nextjs-plain-wordmark"></i>
   <img 
        style="cursor: not-allowed;"
        align="center" 
