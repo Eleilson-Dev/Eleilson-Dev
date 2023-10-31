@@ -56,8 +56,18 @@
        alt="Eleilson-Js" 
        height="50" 
        width="60" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  >
+
+   <img 
+       style="cursor: not-allowed;"
+       align="center" 
+       alt="Eleilson-Js" 
+       height="50" 
+       width="60" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   >
+
 
 </div>
 
