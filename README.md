@@ -48,7 +48,7 @@
        alt="Eleilson-Js" 
        height="50" 
        width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
   >
   <img 
        style="cursor: not-allowed;"
