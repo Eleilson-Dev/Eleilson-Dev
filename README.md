@@ -42,14 +42,7 @@
        width="60" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   >
-   <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
-  >
+ <i class="devicon-nextjs-plain-wordmark"></i>
   <img 
        style="cursor: not-allowed;"
        align="center" 
