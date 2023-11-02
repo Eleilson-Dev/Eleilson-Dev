@@ -10,62 +10,11 @@
 
 <h2>Ferramentas e Tecnologias</h2>
 <div style="display: flex;">
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-  >
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  >
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  >
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  >
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-  >
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  >
-  <img 
-       style="cursor: not-allowed;"
-       align="center" 
-       alt="Eleilson-Js" 
-       height="50" 
-       width="60" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  >
+   <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,ts,react,nextjs,nodejs,py,mysql" />
+  </a>
+</p>
 </div>
 
 <h2>Statics</h2>
