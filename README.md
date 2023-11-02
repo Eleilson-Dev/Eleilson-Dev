@@ -12,7 +12,7 @@
 <div style="display: flex;">
    <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,ts,react,nextjs,nodejs,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,py,mysql" />
   </a>
 </p>
 </div>
