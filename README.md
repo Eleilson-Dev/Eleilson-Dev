@@ -16,7 +16,6 @@
   </a>
 </p>
 </div>
-
 <h2>Statics</h2>
 <div aling="center">
   <a href="https://github.com/Eleilson-Dev">
@@ -32,7 +31,6 @@
      height="180em" 
      src="https://github-readme-stats.vercel.app/api?username=Eleilson-Dev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"
   />
-     
 </div>
 <div>
   <h2>Contatos:</h2>
