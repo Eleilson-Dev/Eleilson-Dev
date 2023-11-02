@@ -18,20 +18,20 @@
 </div>
 
 <h2>Statics</h2>
-<div align="center">
+<div>
   <a href="https://github.com/Eleilson-Dev">
    <img 
      height="180em" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleilson-Dev&layout=compact&langs_count=7&theme=jolly"
   />
-   <img 
-     height="180em" 
-     src="https://github-readme-stats.vercel.app/api?username=Eleilson-Dev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"
-  />
     <img 
      height="180em" 
      src="https://streak-stats.demolab.com/?user=Eleilson-Dev&theme=jolly"
   />
+<!--    <img 
+     height="150em" 
+     src="https://github-readme-stats.vercel.app/api?username=Eleilson-Dev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"
+  /> -->
      
 </div>
 <div>
